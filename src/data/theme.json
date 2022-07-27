@@ -1,0 +1,11 @@
+{
+  "morning": {
+    "main": "#333"
+  },
+  "noon": {
+    "main": "#fff"
+  },
+  "evening": {
+    "main": "#fff"
+  }
+}

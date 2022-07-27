@@ -1,0 +1,36 @@
+[
+  {
+    "abbreviation": "+08",
+    "client_ip": "120.29.77.213",
+    "datetime": "2022-07-27T22:29:11.422083+08:00",
+    "day_of_week": 3,
+    "day_of_year": 208,
+    "dst": false,
+    "dst_from": null,
+    "dst_offset": 0,
+    "dst_until": null,
+    "raw_offset": 28800,
+    "timezone": "Asia/Singapore",
+    "unixtime": 1658932151,
+    "utc_datetime": "2022-07-27T14:29:11.422083+00:00",
+    "utc_offset": "+08:00",
+    "week_number": 30
+  },
+  {
+    "abbreviation": "EDT",
+    "client_ip": "120.29.77.213",
+    "datetime": "2022-07-27T10:36:53.151262-04:00",
+    "day_of_week": 3,
+    "day_of_year": 208,
+    "dst": true,
+    "dst_from": "2022-03-13T07:00:00+00:00",
+    "dst_offset": 3600,
+    "dst_until": "2022-11-06T06:00:00+00:00",
+    "raw_offset": -18000,
+    "timezone": "America/New_York",
+    "unixtime": 1658932613,
+    "utc_datetime": "2022-07-27T14:36:53.151262+00:00",
+    "utc_offset": "-04:00",
+    "week_number": 30
+  }
+]
